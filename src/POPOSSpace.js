@@ -1,5 +1,5 @@
-import React from 'react';
-import './POPOSSpace.css';
+import React from 'react'
+import './POPOSSpace.css'
 
 function POPOSSpace(props) {
     const { name, image, address } = props
@@ -12,4 +12,4 @@ function POPOSSpace(props) {
     )
 }
 
-export default POPOSSpace;
+export default POPOSSpace
